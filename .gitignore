@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.tools/
+coverage/
+config/server.json
+*.log
